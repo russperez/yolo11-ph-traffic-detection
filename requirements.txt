@@ -1,0 +1,5 @@
+ultralytics==8.4.19
+torch>=2.0.0
+opencv-python
+pyyaml
+pandas
