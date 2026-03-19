@@ -1,0 +1,15 @@
+names:
+- bike
+- bus
+- car
+- ebike
+- jeepney
+- motorcycle
+- sidecar
+- tricycle
+- truck
+- van
+nc: 10
+test: /content/drive/MyDrive/SA1 DATASCI 3/test/images
+train: /content/drive/MyDrive/SA1 DATASCI 3/train/images
+val: /content/drive/MyDrive/SA1 DATASCI 3/valid/images
